@@ -1,0 +1,23 @@
+UserName,Client,Task,SubTask,Duration,EST_Date
+Abinesh Natarajan,AT&T Shell - EMS Mobile,CMD,Catalog Build_Update,07:00:00,10/05/2015
+Abinesh Natarajan,Other,Other,Adhoc,01:00:00,10/05/2015
+Adi Narayanareddy,TOMS to EMS Migration,EMS,Migration Activities,04:00:00,10/05/2015
+Karthik Naidu,Other,Other,Adhoc,01:00:00,10/05/2015
+Karthik Naidu,HP P&G - EMS Mobile,EMS,Eproc_EON,06:30:00,10/05/2015
+Karthik Naidu,AT&T Internal Employees  - Command,CMD,Catalog Build_Update,00:30:00,10/05/2015
+Pradeep Raju,Other,Other,Adhoc,02:00:00,10/05/2015
+Ravi Kotresh,IBM Xcel Energy - IPV,IPV,Service Orders,00:30:00,10/05/2015
+Ravi Kotresh,AT&T ATEMs - IPV,IPV,Service Orders,06:00:00,10/05/2015
+Ravi Kotresh,IBM Maersk - IPV,IPV,Threshold Activity,01:00:00,10/05/2015
+Ravi Kotresh,AT&T ATEMs - IPV,IPV,Threshold Activity,00:30:00,10/05/2015
+Sathish Kumar,HP Symantec - EMS,CMP,Invoice Validation,07:00:00,10/05/2015
+Sathish Kumar,Other,Other,Adhoc,01:00:00,10/05/2015
+Suprita Kumari,AT&T Shell - EMS Mobile,EMS,AT&T LSP Portal SISR Project,01:00:00,10/05/2015
+Suprita Kumari,AT&T Macquarie - EMS Mobile,EMS,AT&T LSP Portal SISR Project,00:30:00,10/05/2015
+Suprita Kumari,AT&T Flowserve - EMS Mobile,EMS,AT&T LSP Portal SISR Project,00:30:00,10/05/2015
+Suprita Kumari,Other,Other,Adhoc,01:00:00,10/05/2015
+Suprita Kumari,Savers Fixed IPV MSP,IPV,Vendor Tracking Sheet,02:00:00,10/05/2015
+Suprita Kumari,Other,Other,Documentation,01:00:00,10/05/2015
+Suprita Kumari,AT&T Shell - EMS Mobile,EMS,Utility Create_Update,02:00:00,10/05/2015
+Swati Sastri,AT&T ATEMs - IPV,IPV,Service Orders,07:00:00,10/05/2015
+Swati Sastri,Other,Other,Adhoc,01:00:00,10/05/2015

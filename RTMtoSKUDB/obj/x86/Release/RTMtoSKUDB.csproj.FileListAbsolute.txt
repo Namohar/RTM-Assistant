@@ -1,0 +1,11 @@
+D:\EMS\RTM Reports Portal - Global\RTM Assistant\RTMtoSKUDB\bin\Release\RTMtoSKUDB.exe.config
+D:\EMS\RTM Reports Portal - Global\RTM Assistant\RTMtoSKUDB\bin\Release\RTMtoSKUDB.exe
+D:\EMS\RTM Reports Portal - Global\RTM Assistant\RTMtoSKUDB\bin\Release\RTMtoSKUDB.XmlSerializers.dll
+D:\EMS\RTM Reports Portal - Global\RTM Assistant\RTMtoSKUDB\bin\Release\RTMtoSKUDB.pdb
+D:\EMS\RTM Reports Portal - Global\RTM Assistant\RTMtoSKUDB\obj\x86\Release\RTMtoSKUDB.Form1.resources
+D:\EMS\RTM Reports Portal - Global\RTM Assistant\RTMtoSKUDB\obj\x86\Release\RTMtoSKUDB.Properties.Resources.resources
+D:\EMS\RTM Reports Portal - Global\RTM Assistant\RTMtoSKUDB\obj\x86\Release\RTMtoSKUDB.csproj.GenerateResource.Cache
+D:\EMS\RTM Reports Portal - Global\RTM Assistant\RTMtoSKUDB\obj\x86\Release\RTMtoSKUDB.exe
+D:\EMS\RTM Reports Portal - Global\RTM Assistant\RTMtoSKUDB\obj\x86\Release\RTMtoSKUDB.pdb
+D:\EMS\RTM Reports Portal - Global\RTM Assistant\RTMtoSKUDB\obj\x86\Release\RTMtoSKUDB.XmlSerializers.dll
+D:\EMS\RTM Reports Portal - Global\RTM Assistant\RTMtoSKUDB\obj\x86\Release\RTMtoSKUDB.csprojResolveAssemblyReference.cache

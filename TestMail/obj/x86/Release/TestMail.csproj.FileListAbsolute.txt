@@ -1,0 +1,23 @@
+D:\Development\RTM Assistant\TestMail\bin\Release\TestMail.exe
+D:\Development\RTM Assistant\TestMail\bin\Release\TestMail.pdb
+D:\Development\RTM Assistant\TestMail\obj\x86\Release\TestMail.Properties.Resources.resources
+D:\Development\RTM Assistant\TestMail\obj\x86\Release\TestMail.csproj.GenerateResource.Cache
+D:\Development\RTM Assistant\TestMail\obj\x86\Release\TestMail.exe
+D:\Development\RTM Assistant\TestMail\obj\x86\Release\TestMail.pdb
+D:\Development\RTM Assistant\TestMail\obj\x86\Release\TestMail.txtPort.resources
+C:\Users\Mohammed.Shiddique\Desktop\EMS\RTM Reports Portal - Global\RTM Assistant\TestMail\bin\Release\TestMail.exe
+C:\Users\Mohammed.Shiddique\Desktop\EMS\RTM Reports Portal - Global\RTM Assistant\TestMail\bin\Release\TestMail.pdb
+C:\Users\Mohammed.Shiddique\Desktop\EMS\RTM Reports Portal - Global\RTM Assistant\TestMail\obj\x86\Release\TestMail.txtPort.resources
+C:\Users\Mohammed.Shiddique\Desktop\EMS\RTM Reports Portal - Global\RTM Assistant\TestMail\obj\x86\Release\TestMail.Properties.Resources.resources
+C:\Users\Mohammed.Shiddique\Desktop\EMS\RTM Reports Portal - Global\RTM Assistant\TestMail\obj\x86\Release\TestMail.csproj.GenerateResource.Cache
+C:\Users\Mohammed.Shiddique\Desktop\EMS\RTM Reports Portal - Global\RTM Assistant\TestMail\obj\x86\Release\TestMail.exe
+C:\Users\Mohammed.Shiddique\Desktop\EMS\RTM Reports Portal - Global\RTM Assistant\TestMail\obj\x86\Release\TestMail.pdb
+D:\EMS\RTM Reports Portal - Global\RTM Assistant\TestMail\bin\Release\TestMail.exe
+D:\EMS\RTM Reports Portal - Global\RTM Assistant\TestMail\bin\Release\TestMail.pdb
+D:\EMS\RTM Reports Portal - Global\RTM Assistant\TestMail\obj\x86\Release\TestMail.txtPort.resources
+D:\EMS\RTM Reports Portal - Global\RTM Assistant\TestMail\obj\x86\Release\TestMail.Properties.Resources.resources
+D:\EMS\RTM Reports Portal - Global\RTM Assistant\TestMail\obj\x86\Release\TestMail.csproj.GenerateResource.Cache
+D:\EMS\RTM Reports Portal - Global\RTM Assistant\TestMail\obj\x86\Release\TestMail.exe
+D:\EMS\RTM Reports Portal - Global\RTM Assistant\TestMail\obj\x86\Release\TestMail.pdb
+C:\Users\Mohammed.Shiddique\Desktop\EMS\RTM Reports Portal - Global\RTM Assistant\TestMail\obj\x86\Release\TestMail.csprojResolveAssemblyReference.cache
+D:\EMS\RTM Reports Portal - Global\RTM Assistant\TestMail\obj\x86\Release\TestMail.csprojResolveAssemblyReference.cache

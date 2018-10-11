@@ -1,0 +1,44 @@
+Employee Name,Date,Client,Task,Subtask,User Estimate,RTM Time
+Albert Shantharaj,7/8/2015,Other,Email,Client & Carrier,,6:14:44
+Albert Shantharaj,7/8/2015,AT&T CSC - Command,Adhoc,Peer Support - M,,0:1:22
+Albert Shantharaj,7/8/2015,Computer Sciences Corporation Prem Mobile,Adhoc,Peer Support - M,,0:3:17
+Bhanu Prakash,7/8/2015,Other,Email,Tangoe Email,0:20:0,0:55:41
+Bhanu Prakash,7/8/2015,Other,Adhoc,Trainings,2:20:0,0:44:37
+Bhanu Prakash,7/8/2015,PPD CommCare IPV Managed Services,Email,Client & Carrier,,1:9:4
+Bhanu Prakash,7/8/2015,Adobe Wireless MSP,Adhoc,Web-Conf,,1:5:14
+Bhanu Prakash,7/8/2015,Adobe Wireless MSP,Adhoc,Cross Function,,3:18:3
+Bhanu Prakash,7/8/2015,Computer Sciences Corporation Prem Mobile,Email,Client & Carrier,,0:23:1
+Irene Rebecca,7/8/2015,HP Alcatel Lucent - EMS,Email,Client & Carrier,,1:0:18
+Irene Rebecca,7/8/2015,HP Alcatel Lucent - EMS,Adhoc,Trainings,,1:25:6
+Irene Rebecca,7/8/2015,HP Alcatel Lucent - EMS,Adhoc,Non-Task,,0:9:6
+Pradeep Raju,7/8/2015,AT&T Macquarie - EMS Mobile,Email,Client & Carrier,2:0:0,1:20:45
+Pradeep Raju,7/8/2015,AT&T Macquarie - EMS Mobile,Documentation,LSP Packet,,0:12:8
+Pradeep Raju,7/8/2015,HP Alcatel Lucent - EMS,Adhoc,Trainings,,4:15:49
+Raghunandan Karanam ,7/8/2015,AT&T FirstGroup America - IPV,Adhoc,Cross Function,,1:6:1
+Raghunandan Karanam ,7/8/2015,HP P&G - EMS Mobile,Email,Tangoe Email,2:0:0,2:3:16
+Raghunandan Karanam ,7/8/2015,HP P&G - EMS Mobile,Calls,Meeting - US Leads,,1:46:5
+Raghunandan Karanam ,7/8/2015,Salesforce.com Wireless MSP,Documentation,Legacy Tangoe Task,,1:20:30
+Rizil Madappa P,7/8/2015,HP P&G - EMS Mobile,Email,Tangoe Email,,0:56:51
+Rizil Madappa P,7/8/2015,HP P&G - EMS Mobile,Documentation,Legacy Tangoe Task,3:0:0,4:53:46
+Rizil Madappa P,7/8/2015,AT&T CSC - Command,Adhoc,Peer Support - M,,0:9:23
+Ruma Balmiki,7/8/2015,HP Alcatel Lucent - EMS,Email,Client & Carrier,1:0:0,4:33:9
+Ruma Balmiki,7/8/2015,HP Alcatel Lucent - EMS,Calls,Client,,1:1:19
+Ruma Balmiki,7/8/2015,HP Alcatel Lucent - EMS,Calls,Meeting - US Leads,,0:52:23
+Ruma Balmiki,7/8/2015,HP Alcatel Lucent - EMS,Documentation,LSP Packet,1:30:0,0:10:12
+Sham Aruna Nagu KP,7/8/2015,HP Alcatel Lucent - EMS,Email,Tangoe Email,,1:56:14
+Sham Aruna Nagu KP,7/8/2015,HP Alcatel Lucent - EMS,Email,Client & Carrier,,0:38:18
+Sham Aruna Nagu KP,7/8/2015,HP Alcatel Lucent - EMS,Calls,Meeting - US Leads,,0:33:38
+Sham Aruna Nagu KP,7/8/2015,HP Alcatel Lucent - EMS,Adhoc,Trackers,,1:11:49
+Sham Aruna Nagu KP,7/8/2015,HP Alcatel Lucent - EMS,Adhoc,Trainings,,0:29:26
+Sham Aruna Nagu KP,7/8/2015,HP Alcatel Lucent - EMS,Documentation,Invoicing,,0:19:42
+Sham Aruna Nagu KP,7/8/2015,,Conference-Call,,,0:19:16
+Albert Shantharaj,7/8/2015,,Meeting,,,1:9:6
+Bhanu Prakash,7/8/2015,,Meeting,,,1:19:9
+Irene Rebecca,7/8/2015,,Meeting,,,4:15:27
+Pradeep Raju,7/8/2015,,Meeting,,,1:7:38
+Raghunandan Karanam ,7/8/2015,,Meeting,,,1:19:28
+Rizil Madappa P,7/8/2015,,Meeting,,,1:10:20
+Ruma Balmiki,7/8/2015,,Meeting,,,0:59:39
+Sham Aruna Nagu KP,7/8/2015,,Meeting,,,1:16:58
+Albert Shantharaj,7/8/2015,,Peer Support,,,0:0:0
+Rizil Madappa P,7/8/2015,,Peer Support,,,0:0:0

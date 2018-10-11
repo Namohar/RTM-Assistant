@@ -1,0 +1,16 @@
+D:\EMS\RTM Reports Portal - Global\RTM Assistant\SplitMeetingDuration\bin\Release\SplitMeetingDuration.exe
+D:\EMS\RTM Reports Portal - Global\RTM Assistant\SplitMeetingDuration\bin\Release\SplitMeetingDuration.pdb
+D:\EMS\RTM Reports Portal - Global\RTM Assistant\SplitMeetingDuration\obj\x86\Release\SplitMeetingDuration.Properties.Resources.resources
+D:\EMS\RTM Reports Portal - Global\RTM Assistant\SplitMeetingDuration\obj\x86\Release\SplitMeetingDuration.csproj.GenerateResource.Cache
+D:\EMS\RTM Reports Portal - Global\RTM Assistant\SplitMeetingDuration\obj\x86\Release\SplitMeetingDuration.exe
+D:\EMS\RTM Reports Portal - Global\RTM Assistant\SplitMeetingDuration\obj\x86\Release\SplitMeetingDuration.pdb
+D:\EMS\RTM Reports Portal - Global\RTM Assistant\SplitMeetingDuration\obj\x86\Release\SplitMeetingDuration.Form1.resources
+C:\Users\Mohammed.Shiddique\Desktop\EMS\RTM Reports Portal - Global\RTM Assistant\SplitMeetingDuration\bin\Release\SplitMeetingDuration.exe
+C:\Users\Mohammed.Shiddique\Desktop\EMS\RTM Reports Portal - Global\RTM Assistant\SplitMeetingDuration\bin\Release\SplitMeetingDuration.pdb
+C:\Users\Mohammed.Shiddique\Desktop\EMS\RTM Reports Portal - Global\RTM Assistant\SplitMeetingDuration\obj\x86\Release\SplitMeetingDuration.csprojResolveAssemblyReference.cache
+C:\Users\Mohammed.Shiddique\Desktop\EMS\RTM Reports Portal - Global\RTM Assistant\SplitMeetingDuration\obj\x86\Release\SplitMeetingDuration.Form1.resources
+C:\Users\Mohammed.Shiddique\Desktop\EMS\RTM Reports Portal - Global\RTM Assistant\SplitMeetingDuration\obj\x86\Release\SplitMeetingDuration.Properties.Resources.resources
+C:\Users\Mohammed.Shiddique\Desktop\EMS\RTM Reports Portal - Global\RTM Assistant\SplitMeetingDuration\obj\x86\Release\SplitMeetingDuration.csproj.GenerateResource.Cache
+C:\Users\Mohammed.Shiddique\Desktop\EMS\RTM Reports Portal - Global\RTM Assistant\SplitMeetingDuration\obj\x86\Release\SplitMeetingDuration.exe
+C:\Users\Mohammed.Shiddique\Desktop\EMS\RTM Reports Portal - Global\RTM Assistant\SplitMeetingDuration\obj\x86\Release\SplitMeetingDuration.pdb
+D:\EMS\RTM Reports Portal - Global\RTM Assistant\SplitMeetingDuration\obj\x86\Release\SplitMeetingDuration.csprojResolveAssemblyReference.cache

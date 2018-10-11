@@ -1,0 +1,11 @@
+D:\EMS\RTM Reports Portal - Global\RTM Assistant\RTM Service Desk Assistant\bin\Release\RTM Service Desk Assistant.exe.config
+D:\EMS\RTM Reports Portal - Global\RTM Assistant\RTM Service Desk Assistant\bin\Release\RTM Service Desk Assistant.exe
+D:\EMS\RTM Reports Portal - Global\RTM Assistant\RTM Service Desk Assistant\bin\Release\RTM Service Desk Assistant.XmlSerializers.dll
+D:\EMS\RTM Reports Portal - Global\RTM Assistant\RTM Service Desk Assistant\bin\Release\RTM Service Desk Assistant.pdb
+D:\EMS\RTM Reports Portal - Global\RTM Assistant\RTM Service Desk Assistant\obj\x86\Release\RTM Service Desk Assistant.csprojResolveAssemblyReference.cache
+D:\EMS\RTM Reports Portal - Global\RTM Assistant\RTM Service Desk Assistant\obj\x86\Release\RTM_Service_Desk_Assistant.Form1.resources
+D:\EMS\RTM Reports Portal - Global\RTM Assistant\RTM Service Desk Assistant\obj\x86\Release\RTM_Service_Desk_Assistant.Properties.Resources.resources
+D:\EMS\RTM Reports Portal - Global\RTM Assistant\RTM Service Desk Assistant\obj\x86\Release\RTM Service Desk Assistant.csproj.GenerateResource.Cache
+D:\EMS\RTM Reports Portal - Global\RTM Assistant\RTM Service Desk Assistant\obj\x86\Release\RTM Service Desk Assistant.exe
+D:\EMS\RTM Reports Portal - Global\RTM Assistant\RTM Service Desk Assistant\obj\x86\Release\RTM Service Desk Assistant.pdb
+D:\EMS\RTM Reports Portal - Global\RTM Assistant\RTM Service Desk Assistant\obj\x86\Release\RTM Service Desk Assistant.XmlSerializers.dll

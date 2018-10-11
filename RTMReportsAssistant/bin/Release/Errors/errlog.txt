@@ -1,0 +1,40 @@
+Title: EstimationError
+Message: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.1 Client was not authenticated
+StackTrace:    at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at RTMReportsAssistant.Form1.DisplayEstRecords(Int32 TID) in D:\EMS\RTM Reports Portal - Global\RTM Assistant\RTMReportsAssistant\Form1.cs:line 1923
+   at RTMReportsAssistant.Form1.tmrUpdate_Tick(Object sender, EventArgs e) in D:\EMS\RTM Reports Portal - Global\RTM Assistant\RTMReportsAssistant\Form1.cs:line 265
+Date/Time: 8/6/2018 12:58:04 PM
+================================================
+Title: EstimationComparisonError
+Message: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.1 Client was not authenticated
+StackTrace:    at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at RTMReportsAssistant.Form1.ER_IN_Inventory_Management() in D:\EMS\RTM Reports Portal - Global\RTM Assistant\RTMReportsAssistant\Form1.cs:line 6455
+   at RTMReportsAssistant.Form1.tmrUpdate_Tick(Object sender, EventArgs e) in D:\EMS\RTM Reports Portal - Global\RTM Assistant\RTMReportsAssistant\Form1.cs:line 399
+Date/Time: 8/29/2018 10:35:51 AM
+================================================
+Title: EstimationError
+Message: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.1 Client was not authenticated
+StackTrace:    at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at RTMReportsAssistant.Form1.DisplayEstRecords(Int32 TID) in D:\EMS\RTM Reports Portal - Global\RTM Assistant\RTMReportsAssistant\Form1.cs:line 2004
+   at RTMReportsAssistant.Form1.tmrUpdate_Tick(Object sender, EventArgs e) in D:\EMS\RTM Reports Portal - Global\RTM Assistant\RTMReportsAssistant\Form1.cs:line 337
+Date/Time: 8/29/2018 12:01:29 PM
+================================================
+Title: EstimationError
+Message: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.1 Client was not authenticated
+StackTrace:    at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at RTMReportsAssistant.Form1.DisplayEstRecords(Int32 TID) in D:\EMS\RTM Reports Portal - Global\RTM Assistant\RTMReportsAssistant\Form1.cs:line 2004
+   at RTMReportsAssistant.Form1.tmrUpdate_Tick(Object sender, EventArgs e) in D:\EMS\RTM Reports Portal - Global\RTM Assistant\RTMReportsAssistant\Form1.cs:line 337
+Date/Time: 8/29/2018 12:03:12 PM
+================================================

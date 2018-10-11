@@ -1,0 +1,41 @@
+Employee Name,Date,Client,Task,Subtask,User Estimate,RTM Time
+Bhanu Prakash,11/30/2015,LinkedIn Corp Wireless MSP,Documentation,Legacy Tangoe Task,1:30:0,1:56:32
+Irene J,11/30/2015,AT&T Shell - Command,Calls,Carrier,1:0:0,1:0:11
+Irene J,11/30/2015,AT&T Shell - Command,Adhoc,Trackers,2:0:0,2:0:18
+Lydia John,11/30/2015,AT&T Macquarie - EMS Mobile,Email,Client & Carrier,1:30:0,1:22:0
+Lydia John,11/30/2015,AT&T Shell - Command,Adhoc,Trackers,2:0:0,2:22:7
+Raghunandan Karanam ,11/30/2015,HP P&G - EMS Mobile,Email,Tangoe Email,1:30:0,2:17:2
+Ruma Balmiki,11/30/2015,HP Alcatel Lucent - EMS,Email,Client & Carrier,3:30:0,2:2:10
+Sham Kulandaswamy,11/30/2015,HP Alcatel Lucent - EMS,Email,Client & Carrier,1:30:0,1:53:11
+Sham Kulandaswamy,11/30/2015,HP Alcatel Lucent - EMS,Documentation,Invoicing,0:30:0,0:21:20
+Sham Kulandaswamy,11/30/2015,HP Alcatel Lucent - EMS,Documentation,Ordering and Catalog,1:30:0,1:23:33
+Bhanu Prakash,11/30/2015,HP P&G - EMS Mobile,Documentation,LSP Packet,1:0:0,1:38:53
+Irene J,11/30/2015,AT&T Shell - Command,Email,Client & Carrier,1:0:0,1:0:16
+Irene J,11/30/2015,AT&T Shell - Command,Adhoc,Reports,1:0:0,0:26:44
+Lydia John,11/30/2015,AT&T Macquarie - EMS Mobile,Calls,Meeting - US Leads,,1:33:42
+Lydia John,11/30/2015,AT&T Shell - Command,Documentation,LSP Packet,1:0:0,1:49:34
+Raghunandan Karanam ,11/30/2015,HP P&G - EMS Mobile,Calls,Meeting - US Leads,1:0:0,1:18:12
+Raghunandan Karanam ,11/30/2015,Salesforce.com Wireless MSP,Documentation,Legacy Tangoe Task,1:0:0,0:35:22
+Ruma Balmiki,11/30/2015,HP Alcatel Lucent - EMS,Documentation,LSP Packet,1:30:0,1:20:48
+Sham Kulandaswamy,11/30/2015,HP Alcatel Lucent - EMS,Email,Tangoe Email,0:30:0,0:28:21
+Sham Kulandaswamy,11/30/2015,HP Alcatel Lucent - EMS,Calls,Meeting - US Leads,1:0:0,0:56:49
+Sham Kulandaswamy,11/30/2015,HP Alcatel Lucent - EMS,Adhoc,Trackers,1:0:0,0:51:6
+Bhanu Prakash,11/30/2015,Other,Calls,Meeting - US Leads,1:0:0,1:26:24
+Raghunandan Karanam ,11/30/2015,HP P&G - EMS Mobile,Documentation,LSP Packet,1:0:0,1:31:9
+Raghunandan Karanam ,11/30/2015,LinkedIn Corp Wireless MSP,Documentation,Legacy Tangoe Task,1:30:0,1:42:52
+Ruma Balmiki,11/30/2015,HP Alcatel Lucent - EMS,Email,Tangoe Email,1:0:0,1:14:29
+Ruma Balmiki,11/30/2015,HP Alcatel Lucent - EMS,Calls,Meeting - US Leads,,1:13:8
+Sham Kulandaswamy,11/30/2015,HP Alcatel Lucent - EMS,Documentation,LSP Packet,,0:5:4
+Bhanu Prakash,11/30/2015,HP P&G - EMS Mobile,Adhoc,Trackers,,0:12:36
+Bhanu Prakash,11/30/2015,Other,Email,Tangoe Email,1:30:0,1:44:20
+Bhanu Prakash,11/30/2015,PPD CommCare IPV Managed Services,Adhoc,Trackers,,0:12:36
+Bhanu Prakash,11/30/2015,Apple Wireless POC,Adhoc,Trackers,,0:12:36
+Irene J,11/30/2015,AT&T Shell - Command,Documentation,LSP Packet,2:0:0,2:0:11
+Ruma Balmiki,11/30/2015,HP Alcatel Lucent - EMS,Adhoc,Peer Support - M,,0:27:52
+Irene J,11/30/2015,AT&T Shell - Command,Calls,Client,01:00:00,
+Bhanu Prakash,11/30/2015,Other,Adhoc,Trackers,01:00:00,
+Bhanu Prakash,11/30/2015,PPD CommCare IPV Managed Services,Documentation,Legacy Tangoe Task,01:30:00,
+Raghunandan Karanam ,11/30/2015,John Deere Fixed PL MSP,Contracts,Processing,01:30:00,
+Lydia John,11/30/2015,AT&T Macquarie - EMS Mobile,Adhoc,Trackers,02:00:00,
+Lydia John,11/30/2015,,Meeting,,,0:20:3
+Ruma Balmiki,11/30/2015,,Peer Support,,,0:0:0

@@ -1,0 +1,70 @@
+Title: EstimationError
+Message: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.1 Client was not authenticated
+StackTrace:    at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at RTMReportsAssistant.Form1.DisplayEstRecords(Int32 TID) in C:\Users\Lokesha.B\Documents\Visual Studio 2010\Projects\RTM Assistant\RTMReportsAssistant\Form1.cs:line 1036
+   at RTMReportsAssistant.Form1.tmrUpdate_Tick(Object sender, EventArgs e) in C:\Users\Lokesha.B\Documents\Visual Studio 2010\Projects\RTM Assistant\RTMReportsAssistant\Form1.cs:line 157
+Date/Time: 10/5/2015 2:55:48 PM
+================================================
+Title: EstimationError
+Message: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.1 Client was not authenticated
+StackTrace:    at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at RTMReportsAssistant.Form1.DisplayEstRecords(Int32 TID) in C:\Users\Lokesha.B\Documents\Visual Studio 2010\Projects\RTM Assistant\RTMReportsAssistant\Form1.cs:line 1051
+   at RTMReportsAssistant.Form1.tmrUpdate_Tick(Object sender, EventArgs e) in C:\Users\Lokesha.B\Documents\Visual Studio 2010\Projects\RTM Assistant\RTMReportsAssistant\Form1.cs:line 157
+Date/Time: 12/1/2015 2:18:59 PM
+================================================
+Title: EstimationError
+Message: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.1 Client was not authenticated
+StackTrace:    at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at RTMReportsAssistant.Form1.CheckEstUsers(Int32 TID) in C:\Users\Lokesha.B\Documents\Visual Studio 2010\Projects\RTM Assistant\RTMReportsAssistant\Form1.cs:line 2139
+   at RTMReportsAssistant.Form1.tmrUpdate_Tick(Object sender, EventArgs e) in C:\Users\Lokesha.B\Documents\Visual Studio 2010\Projects\RTM Assistant\RTMReportsAssistant\Form1.cs:line 260
+Date/Time: 12/28/2015 11:02:59 AM
+================================================
+Title: EstimationError
+Message: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.1 Client was not authenticated
+StackTrace:    at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at RTMReportsAssistant.Form1.DisplayEstRecords(Int32 TID) in C:\Users\Lokesha.B\Documents\Visual Studio 2010\Projects\RTM Assistant\RTMReportsAssistant\Form1.cs:line 1357
+   at RTMReportsAssistant.Form1.tmrUpdate_Tick(Object sender, EventArgs e) in C:\Users\Lokesha.B\Documents\Visual Studio 2010\Projects\RTM Assistant\RTMReportsAssistant\Form1.cs:line 162
+Date/Time: 3/15/2016 2:07:34 PM
+================================================
+Title: EstimationError
+Message: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.1 Client was not authenticated
+StackTrace:    at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at RTMReportsAssistant.Form1.CheckEstUsers(Int32 TID) in C:\Users\Lokesha.B\Documents\Visual Studio 2010\Projects\RTM Assistant\RTMReportsAssistant\Form1.cs:line 2255
+   at RTMReportsAssistant.Form1.tmrUpdate_Tick(Object sender, EventArgs e) in C:\Users\Lokesha.B\Documents\Visual Studio 2010\Projects\RTM Assistant\RTMReportsAssistant\Form1.cs:line 252
+Date/Time: 3/15/2016 2:07:40 PM
+================================================
+Title: EstimationError
+Message: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.1 Client was not authenticated
+StackTrace:    at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at RTMReportsAssistant.Form1.DisplayEstRecords(Int32 TID) in C:\Users\Lokesha.B\Documents\Visual Studio 2010\Projects\RTM Assistant\RTMReportsAssistant\Form1.cs:line 1357
+   at RTMReportsAssistant.Form1.tmrUpdate_Tick(Object sender, EventArgs e) in C:\Users\Lokesha.B\Documents\Visual Studio 2010\Projects\RTM Assistant\RTMReportsAssistant\Form1.cs:line 162
+Date/Time: 3/15/2016 2:11:27 PM
+================================================
+Title: EstimationError
+Message: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.1 Client was not authenticated
+StackTrace:    at System.Net.Mail.MailCommand.CheckResponse(SmtpStatusCode statusCode, String response)
+   at System.Net.Mail.MailCommand.Send(SmtpConnection conn, Byte[] command, MailAddress from, Boolean allowUnicode)
+   at System.Net.Mail.SmtpTransport.SendMail(MailAddress sender, MailAddressCollection recipients, String deliveryNotify, Boolean allowUnicode, SmtpFailedRecipientException& exception)
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at RTMReportsAssistant.Form1.CheckEstUsers(Int32 TID) in C:\Users\Lokesha.B\Documents\Visual Studio 2010\Projects\RTM Assistant\RTMReportsAssistant\Form1.cs:line 2255
+   at RTMReportsAssistant.Form1.tmrUpdate_Tick(Object sender, EventArgs e) in C:\Users\Lokesha.B\Documents\Visual Studio 2010\Projects\RTM Assistant\RTMReportsAssistant\Form1.cs:line 252
+Date/Time: 3/15/2016 2:11:33 PM
+================================================

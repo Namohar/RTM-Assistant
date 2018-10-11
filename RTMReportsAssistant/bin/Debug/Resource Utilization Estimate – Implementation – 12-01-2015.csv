@@ -1,0 +1,24 @@
+UserName,Client,Task,SubTask,Duration,EST_Date
+Abinesh Natarajan,AT&T North American Public Sector - Command,CMD,Catalog Build_Update,04:00:00,12/01/2015
+Abinesh Natarajan,AT&T Shell - Command,CMD,Catalog Build_Update,04:00:00,12/01/2015
+Adi Narayanareddy,TOMS to EMS Migration,EMS,Migration Activities,04:00:00,12/01/2015
+Karthik Naidu,TOMS to EMS Migration,EMS,Migration Activities,05:30:00,12/01/2015
+Karthik Naidu,Other,Other,Adhoc,02:30:00,12/01/2015
+Mythily Natarajan,HP Alcatel Lucent - EMS,EMS,Manage - New Vendor Impl,02:00:00,12/01/2015
+Mythily Natarajan,HP Symantec - EMS,EMS,EDI Mapping_Review,04:00:00,12/01/2015
+Mythily Natarajan,Other,Other,Adhoc,02:00:00,12/01/2015
+Pradeep Raju,Other,Other,Adhoc,08:00:00,12/01/2015
+Ravi Kotresh,IBM Maersk - IPV,IPV,Threshold Activity,01:30:00,12/01/2015
+Ravi Kotresh,IBM Office Depot - IPV,IPV,Report & Queries,00:45:00,12/01/2015
+Ravi Kotresh,Other,Other,Adhoc,05:30:00,12/01/2015
+Sathish Kumar,Other,Other,NEW Client,01:30:00,12/01/2015
+Sathish Kumar,HP Alcatel Lucent - EMS,EMS,UAT_Interface testing,03:00:00,12/01/2015
+Sathish Kumar,Other,Other,Adhoc,01:30:00,12/01/2015
+Suprita Kumari,Other,CMD,Pre-QA HRIS,02:00:00,12/01/2015
+Suprita Kumari,Other,Other,Adhoc,01:00:00,12/01/2015
+Suprita Kumari,Other,Other,Documentation,03:00:00,12/01/2015
+Suprita Kumari,AT&T Shell - Command,EMS,AT&T LSP Portal SISR Project,02:00:00,12/01/2015
+Swati Sastri,IBM ConWay -  IPV,IPV,Past Due Balance,02:00:00,12/01/2015
+Swati Sastri,AT&T ATEMs - IPV,IPV,Threshold Activity,01:00:00,12/01/2015
+Swati Sastri,Other,Other,Adhoc,01:00:00,12/01/2015
+Swati Sastri,AT&T FirstGroup America - IPV,IPV,Service Orders,03:00:00,12/01/2015

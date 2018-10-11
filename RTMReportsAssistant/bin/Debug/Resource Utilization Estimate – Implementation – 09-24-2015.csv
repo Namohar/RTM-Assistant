@@ -1,0 +1,25 @@
+UserName,Client,Task,SubTask,Duration,EST_Date
+Abinesh Natarajan,AT&T Shell - EMS Mobile,CMD,Catalog Build_Update,06:00:00,09/24/2015
+Abinesh Natarajan,Other,Other,Adhoc,01:00:00,09/24/2015
+Abinesh Natarajan,HP Alcatel Lucent - EMS,EMS,Eproc_EON,01:00:00,09/24/2015
+Karthik Naidu,AT&T Internal Employees  - Command,CMD,Catalog Build_Update,01:00:00,09/24/2015
+Karthik Naidu,HP P&G - EMS Mobile,EMS,Eproc_EON,02:00:00,09/24/2015
+Karthik Naidu,TOMS to EMS Migration,EMS,Migration Activities,05:00:00,09/24/2015
+Panneerselvam Kolandaivel,Other,Other,Adhoc,01:00:00,09/24/2015
+Panneerselvam Kolandaivel,TOMS to EMS Migration,EMS,UAT_Interface testing,07:00:00,09/24/2015
+Pradeep Raju,Tangoe - Prem Mobile,Matrix,Invoice Processing,01:00:00,09/24/2015
+Pradeep Raju,HP Symantec - EMS,CMP,Invoice Validation,03:00:00,09/24/2015
+Pradeep Raju,Other,Other,Adhoc,03:00:00,09/24/2015
+Ravi Kotresh,AT&T ATEMs - IPV,IPV,Threshold Activity,03:00:00,09/24/2015
+Ravi Kotresh,IBM Maersk - IPV,IPV,Threshold Activity,03:00:00,09/24/2015
+Ravi Kotresh,IBM Intel - IPV,IPV,Report & Queries,02:00:00,09/24/2015
+Sathish Kumar,Other,Other,Adhoc,01:00:00,09/24/2015
+Sathish Kumar,HP Symantec - EMS,CMP,Invoice Validation,07:00:00,09/24/2015
+Suprita Kumari,AT&T Shell - EMS Mobile,EMS,AT&T LSP Portal SISR Project,01:00:00,09/24/2015
+Suprita Kumari,AT&T Macquarie - EMS Mobile,EMS,AT&T LSP Portal SISR Project,01:00:00,09/24/2015
+Suprita Kumari,AT&T Flowserve - EMS Mobile,EMS,AT&T LSP Portal SISR Project,01:00:00,09/24/2015
+Suprita Kumari,ABB Optical Fixed IPV MSP,IPV,Pre-QA HRIS,02:00:00,09/24/2015
+Suprita Kumari,Other,Other,Adhoc,01:00:00,09/24/2015
+Suprita Kumari,Other,IPV,Invoice Processing,02:00:00,09/24/2015
+Swati Sastri,AT&T ATEMs - IPV,IPV,Threshold Activity,04:00:00,09/24/2015
+Swati Sastri,Other,Other,NEW Client,04:00:00,09/24/2015
