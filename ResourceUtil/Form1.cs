@@ -13,6 +13,7 @@ namespace ResourceUtil
 {
     public partial class Form1 : Form
     {
+    //Database connection string.
         SqlConnection con = new SqlConnection(@"Data Source=10.55.5.40,1433;Initial Catalog=RTM_Global_Test;User ID=PRODRTMDB;Password=Prodrtm@123;");
 
         DataTable dtTeam = new System.Data.DataTable();
